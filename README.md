@@ -1,1 +1,2 @@
-# TRASH-BIN-GAME
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
